@@ -3,7 +3,7 @@
 
 /**
  * @brief  A circular linked list is a normal linked list with the exception that the last node points back to the head of the list.
- * @note This implementation is not thorough nor clear-cut. It is meant for education purposes
+ * @note This implementation is not thorough nor clear-cut. It is meant for educational purposes
  */
 class CircularLinkedList
 {
